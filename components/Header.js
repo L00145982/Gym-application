@@ -5,7 +5,7 @@ export default function Header() {
     return(
         <View style={styles.header}>
             <Text style={styles.headerTitle}>Motiv8</Text>
-            <Image style={styles.logo}source={require('../assets/img/logo.png')} />
+            {/* <Image style={styles.logo}source={require('../assets/img/logo.png')} /> */}
         </View>
     );
 }
