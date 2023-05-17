@@ -14,7 +14,10 @@ export default function App() {
         <View style={styles.content}>
           <Text style={styles.bodyInfo}>
             I have decided to start creating this app as I had come up with the idea in college but never finished year and it has always been a
-            regret that I live with ever since.
+            regret that I live with ever since. This application is made to show my capabilities and also for my personal enjoyment as I find 
+            learning new languages, frameworks to be quite fascinating. My first attempt during college had taken the route of using Kotlin and Java 
+            In Android Studio, but as a new approach I will be using React Native to allow the application to run within a browser or Android phone. I
+            have no set time in which this project is to be completed. 
           </Text>
           <Image style={styles.aboutImg} source={require('./assets/img/aboutImg.png')} />
         </View>
